@@ -2,13 +2,13 @@
 # client-side para Minecraft feito com FabricMC que converte coordenadas do Overworld para o Nether
 O mod adiciona um comando simples que calcula automaticamente as coordenadas equivalentes do Nether para construção de portais conectados corretamente.
 
-✨ Funcionalidades
+-- Funcionalidades
 Conversão automática de coordenadas
 Compatível com servidores vanilla
 Mod totalmente client-side
 Leve e simples
 Ideal para sobrevivência e construção de hubs no Nether
-📌 Como funciona
+-- Como funciona
 
 No Minecraft:
 
